@@ -22,3 +22,5 @@ const ChannelCard = ({ channelDetail, marginTop }) => (
     </Link>
   </Box>
 )
+
+export default ChannelCard
